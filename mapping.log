@@ -1,75 +1,75 @@
-2014-03-18 12:03:15|   1.4|  1.4|INFORM|FME 2014 (20140112 - Build 14230 - WIN64)
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Desktop Intergraph Edition (floating)
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Permanent License.
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Machine host name is: INF-PMARTINEZ
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|START - ProcessID: 1452, peak process memory usage: 54860 kB, current process memory usage: 54860 kB
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `c:\Temp\wb-xlate-1395140587529_8184' `LOG_STANDARDOUT' `YES' `LogCount' `c:\Temp\wb-xlate-counts-1395140587534_8184'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Shared directories for formats are : C:\Users\pmperez\Documents\FME\Formats;C:\Program Files\FME\datasources
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Shared directories for transformers are : C:\Users\pmperez\Documents\FME\Transformers;C:\Program Files\FME\transformers;C:\Users\pmperez\AppData\Roaming\Safe Software\FME\FME Store\Transformers
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Shared directories for coordinate systems are : C:\Users\pmperez\Documents\FME\CoordinateSystems
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Shared directories for coordinate system exceptions are : C:\Users\pmperez\Documents\FME\CoordinateSystemExceptions
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Shared directories for coordinate system grid overrides are : C:\Users\pmperez\Documents\FME\CoordinateSystemGridOverrides
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Shared directories for CS-MAP transformation exceptions are : C:\Users\pmperez\Documents\FME\CsmapTransformationExceptions
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Shared directories for transformer categories are : C:\Users\pmperez\Documents\FME\TransformerCategories
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Reader Keyword is `ORACLE8I_1'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Reader type is `ORACLE8I'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Current working directory is `U:\cartogra\Ana\Trabajo_ana\FME\pruebas\01_exportacion_TMT\fmerepository'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Temporary directory is `c:\Temp'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'c:\Temp/'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'wb-xlate-1395140587529_8184'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2014'
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|System Status: 76154MB of disk space available in the FME temporary directory (c:\Temp\)
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|System Status: 8388387MB of virtual memory available
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Platform: WIN64
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Locale: es_ES
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|Code Page: 1252  (ANSI - Latín I)
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Process limit is 4038 MB (out of 4038 MB physical memory and 8388607 MB address space)
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 2423 MB of memory or 8388007 MB of address space
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 1817 MB of memory and 6291005 MB of address space
-2014-03-18 12:03:15|   1.4|  0.0|INFORM|FME Configuration: Autodetermining optimal maximum number of objects in memory
-2014-03-18 12:03:16|   1.5|  0.1|INFORM|ORACLE Reader: Using Oracle 8 SC Reader to read tables from database `', server type `ORACLE8i', server name `iderioja', user name `IDE_CONTROL_FMESERVER', password `***'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|ORACLE Reader: Using Rich geometry.
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Loaded module 'OCI' from file 'OCI.dll'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Environment variable ORACLE_HOME has value `c:\Oracle'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Connecting to ORACLE database `iderioja' with user name of `IDE_CONTROL_FMESERVER' and password of `***'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Connected to ORACLE database `iderioja'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Oracle database version is '9.2.0.7.0'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Environment variable ORACLE_HOME has value `c:\Oracle'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Connecting to ORACLE database `iderioja' with user name of `IDE_CONTROL_FMESERVER' and password of `***'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Connected to ORACLE database `iderioja'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Using MultiWriter $Revision: 59162 $ ( $Date: 2009-04-07 10:04:59 -0700 (Tue, 07 Apr 2009) $ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.7 20131121)
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME\plugins/Geometry_func.dll'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.7 20131121)
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME\plugins/PythonFactory.dll'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.7 20131121)
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Using FME's provided Python interpreter from C:\Program Files\FME\fmepython27\python27.dll
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Python version 2.7 successfully loaded
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Adding directory `c:\Temp\' to the python path
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.7 20131121)
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Loaded module 'EvaluateExpression_func' from file 'C:\Program Files\FME\plugins/EvaluateExpression_func.dll'
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|FME API version of module 'EvaluateExpression_func' matches current internal version (3.7 20131121)
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|Column `T083_GEO_ETRS89' of table `IDERIOJA.IDE_IMG_VUELO_CAR_2000_U89' has been chosen to hold the geometry
-2014-03-18 12:03:16|   1.5|  0.0|INFORM|ORACLE Reader: Executing SQL Statement `SELECT "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_ID", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_NOMBRE", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_CAPA_SIMPLE", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_CAPA_SIMPLE_DENO", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_PASADA", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_FOTOGRAMA", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_FECHA_DATOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_URL", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_OBSERVACIONES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_NUMERO_IMAGENES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_NUMERO_DOCUMENTOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_URL_IMAGENES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_URL_DOCUMENTOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_TAG_IMAGENES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_TAG_DOCUMENTOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_ALTA_BBDD", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_ULTIMA_ACTUALIZACION", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_USUARIO_CONEXION", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_USUARIO_DELEGADO", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_USUARIO_DELEGADO_DENO", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_GEO_ETRS89" FROM "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"' to obtain features for feature type `IDERIOJA.IDE_IMG_VUELO_CAR_2000_U89'
-2014-03-18 12:03:16|   1.6|  0.1|INFORM|Loaded module 'ociunk_geomedia' from file 'C:\Program Files\FME\plugins/ociunk_geomedia.dll'
-2014-03-18 12:03:17|   1.8|  0.2|INFORM|The ORACLE number of the FME coordinate system 'ETRS89.UTM-30N' is '25830'
-2014-03-18 12:03:17|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader ORACLE8I_1[ORACLE8I] set to `ETRS89.UTM-30N' as read from input data
-2014-03-18 12:03:17|   1.8|  0.0|INFORM|Coordinate System `ETRS89.UTM-30N' parameters: CS_NAME=`ETRS89.UTM-30N' DESC_NM=`Transverse Mercator (ETRS89-TM30)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`65.0833333333333' MAX_LNG=`0.75' MIN_LAT=`32' MIN_LNG=`-6.75' PARM1=`-3' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25830 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
-2014-03-18 12:03:18|   1.9|  0.1|ERROR |Python Exception <IndexError>: list index out of range
-2014-03-18 12:03:18|   1.9|  0.0|ERROR |Error encountered while calling function `processFeature1'
-2014-03-18 12:03:18|   1.9|  0.0|FATAL |PythonFactory failed to process feature
-2014-03-18 12:03:18|   1.9|  0.0|FATAL |PythonFactory failed to process feature
-2014-03-18 12:03:18|   1.9|  0.0|ERROR |A fatal error has occurred. Check the logfile above for details
-2014-03-18 12:03:18|   1.9|  0.0|INFORM|FME Session Duration: 10.3 seconds. (CPU: 0.4s user, 0.1s system)
-2014-03-18 12:03:18|   1.9|  0.0|INFORM|END - ProcessID: 1452, peak process memory usage: 192820 kB, current process memory usage: 128552 kB
+2014-03-18 12:03:51|   1.3|  1.3|INFORM|FME 2014 (20140112 - Build 14230 - WIN64)
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Desktop Intergraph Edition (floating)
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Permanent License.
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Machine host name is: INF-PMARTINEZ
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|START - ProcessID: 4364, peak process memory usage: 54864 kB, current process memory usage: 54864 kB
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `c:\Temp\wb-xlate-1395140624453_8184' `LOG_STANDARDOUT' `YES' `LogCount' `c:\Temp\wb-xlate-counts-1395140624458_8184'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Shared directories for formats are : C:\Users\pmperez\Documents\FME\Formats;C:\Program Files\FME\datasources
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Shared directories for transformers are : C:\Users\pmperez\Documents\FME\Transformers;C:\Program Files\FME\transformers;C:\Users\pmperez\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Shared directories for coordinate systems are : C:\Users\pmperez\Documents\FME\CoordinateSystems
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Shared directories for coordinate system exceptions are : C:\Users\pmperez\Documents\FME\CoordinateSystemExceptions
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Shared directories for coordinate system grid overrides are : C:\Users\pmperez\Documents\FME\CoordinateSystemGridOverrides
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Shared directories for CS-MAP transformation exceptions are : C:\Users\pmperez\Documents\FME\CsmapTransformationExceptions
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Shared directories for transformer categories are : C:\Users\pmperez\Documents\FME\TransformerCategories
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Reader Keyword is `ORACLE8I_1'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Reader type is `ORACLE8I'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Current working directory is `U:\cartogra\Ana\Trabajo_ana\FME\pruebas\01_exportacion_TMT\fmerepository'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Temporary directory is `c:\Temp'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'c:\Temp/'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'wb-xlate-1395140624453_8184'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2014'
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|System Status: 76154MB of disk space available in the FME temporary directory (c:\Temp\)
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|System Status: 8388387MB of virtual memory available
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Platform: WIN64
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Locale: es_ES
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|Code Page: 1252  (ANSI - Latín I)
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Process limit is 4038 MB (out of 4038 MB physical memory and 8388607 MB address space)
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 2423 MB of memory or 8388007 MB of address space
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 1817 MB of memory and 6291005 MB of address space
+2014-03-18 12:03:51|   1.3|  0.0|INFORM|FME Configuration: Autodetermining optimal maximum number of objects in memory
+2014-03-18 12:03:52|   1.4|  0.1|INFORM|ORACLE Reader: Using Oracle 8 SC Reader to read tables from database `', server type `ORACLE8i', server name `iderioja', user name `IDE_CONTROL_FMESERVER', password `***'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|ORACLE Reader: Using Rich geometry.
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Loaded module 'OCI' from file 'OCI.dll'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Environment variable ORACLE_HOME has value `c:\Oracle'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Connecting to ORACLE database `iderioja' with user name of `IDE_CONTROL_FMESERVER' and password of `***'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Connected to ORACLE database `iderioja'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Oracle database version is '9.2.0.7.0'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Environment variable ORACLE_HOME has value `c:\Oracle'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Connecting to ORACLE database `iderioja' with user name of `IDE_CONTROL_FMESERVER' and password of `***'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Connected to ORACLE database `iderioja'
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Using MultiWriter $Revision: 59162 $ ( $Date: 2009-04-07 10:04:59 -0700 (Tue, 07 Apr 2009) $ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2014-03-18 12:03:52|   1.4|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.7 20131121)
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME\plugins/Geometry_func.dll'
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.7 20131121)
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME\plugins/PythonFactory.dll'
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.7 20131121)
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Using FME's provided Python interpreter from C:\Program Files\FME\fmepython27\python27.dll
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Python version 2.7 successfully loaded
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Adding directory `c:\Temp\' to the python path
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.7 20131121)
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Loaded module 'EvaluateExpression_func' from file 'C:\Program Files\FME\plugins/EvaluateExpression_func.dll'
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|FME API version of module 'EvaluateExpression_func' matches current internal version (3.7 20131121)
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|Column `T083_GEO_ETRS89' of table `IDERIOJA.IDE_IMG_VUELO_CAR_2000_U89' has been chosen to hold the geometry
+2014-03-18 12:03:52|   1.5|  0.0|INFORM|ORACLE Reader: Executing SQL Statement `SELECT "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_ID", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_NOMBRE", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_CAPA_SIMPLE", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_CAPA_SIMPLE_DENO", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_PASADA", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_FOTOGRAMA", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_FECHA_DATOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_URL", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_000_OBSERVACIONES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_NUMERO_IMAGENES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_NUMERO_DOCUMENTOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_URL_IMAGENES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_URL_DOCUMENTOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_TAG_IMAGENES", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_TAG_DOCUMENTOS", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_ALTA_BBDD", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_ULTIMA_ACTUALIZACION", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_USUARIO_CONEXION", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_USUARIO_DELEGADO", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_USUARIO_DELEGADO_DENO", "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"."T083_GEO_ETRS89" FROM "IDERIOJA"."IDE_IMG_VUELO_CAR_2000_U89"' to obtain features for feature type `IDERIOJA.IDE_IMG_VUELO_CAR_2000_U89'
+2014-03-18 12:03:53|   1.5|  0.1|INFORM|Loaded module 'ociunk_geomedia' from file 'C:\Program Files\FME\plugins/ociunk_geomedia.dll'
+2014-03-18 12:03:53|   1.7|  0.1|INFORM|The ORACLE number of the FME coordinate system 'ETRS89.UTM-30N' is '25830'
+2014-03-18 12:03:53|   1.7|  0.0|INFORM|FME Configuration: Source coordinate system for reader ORACLE8I_1[ORACLE8I] set to `ETRS89.UTM-30N' as read from input data
+2014-03-18 12:03:53|   1.7|  0.0|INFORM|Coordinate System `ETRS89.UTM-30N' parameters: CS_NAME=`ETRS89.UTM-30N' DESC_NM=`Transverse Mercator (ETRS89-TM30)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`65.0833333333333' MAX_LNG=`0.75' MIN_LAT=`32' MIN_LNG=`-6.75' PARM1=`-3' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25830 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2014-03-18 12:03:54|   1.8|  0.2|ERROR |Python Exception <IndexError>: list index out of range
+2014-03-18 12:03:54|   1.8|  0.0|ERROR |Error encountered while calling function `processFeature1'
+2014-03-18 12:03:54|   1.8|  0.0|FATAL |PythonFactory failed to process feature
+2014-03-18 12:03:54|   1.8|  0.0|FATAL |PythonFactory failed to process feature
+2014-03-18 12:03:54|   1.8|  0.0|ERROR |A fatal error has occurred. Check the logfile above for details
+2014-03-18 12:03:54|   1.8|  0.0|INFORM|FME Session Duration: 9.3 seconds. (CPU: 0.3s user, 0.2s system)
+2014-03-18 12:03:54|   1.8|  0.0|INFORM|END - ProcessID: 4364, peak process memory usage: 192824 kB, current process memory usage: 129088 kB
